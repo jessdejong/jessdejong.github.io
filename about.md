@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I'm Jesse. This blog is for CS371p, which is object-oriented programming at UT Austin.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jessdejong843@gmail.com](mailto:jessdejong843@gmail.com)
