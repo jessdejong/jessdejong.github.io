@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CS371p Spring 2021: Jesse DeJong'
+title: 'CS371p Spring 2021- Jesse DeJong'
 ---
 
 
