@@ -20,7 +20,7 @@ Each year, I had the opportunity to take a different computer science course, an
 
 # How much C++ do you already know?
 
-I took Operating Systems with Gheith, and I occasionally solve competitive programming problems in C++. I'm not too familiar with the language.
+I took Operating Systems with Gheith (used C++), and I occasionally solve competitive programming problems in C++. I'm not too familiar with the language.
 
 # How did you feel about the cold calling?
 
