@@ -10,12 +10,12 @@ I'm Jesse, and I'm in my second year at UT Austin. This is me:
 # Where did you grow up?
 
 I grew up in a relatively large (~100,000 people) suburb of Dallas, named Richardson.
-Richardson's claim to fame is the University of Texas at Dallas, which is a couple minutes from my house. That's where my dad teaches, and why my family lives in Richardson.
+Richardson's claim to fame would probably be the University of Texas at Dallas, which is a couple minutes from my house. That's where my dad teaches, and why my family lives in Richardson.
 
 # Why are you majoring in CS?
 
-I went to Richardson High School, which happened to have a really strong computer science program, and a very passionate cs teacher.
-Each year, I had the opportunity to take a different computer science course, and learn something new in the field. Outside of my classes, I competed in competitive programming competitions, hackathons, and capture-the-flags (a security competition). I also met some of my best friends along the way! CS has always interested me, while also providing a fun and active community, which is why I'm a CS major. Side note: I'm also majoring in math.
+I went to Richardson High School, which happened to have a really strong computer science program, and a very passionate CS teacher.
+Each year, I had the opportunity to take a different computer science course, and learn something new in the field. Outside of my classes, I competed in competitive programming competitions, hackathons, and capture-the-flags (a security competition). I also met some of my best friends along the way! CS has always interested me, while also providing a fun and active community, which is why I chose to major in CS in college. Side note: I'm also majoring in math.
 
 # How much C++ do you already know?
 
@@ -31,5 +31,5 @@ A movie called "Midnight in Paris", starring Owen Wilson. Main takeaway from the
 
 # What's your tip-of-the-week?
 
-I recently picked up a bullet-journal, and I've been using it to organize my to-dos, my schedule, my classes, and keep up with my New Year's Resolutions. Hopefully I'll stick it out for at least a year! So far it's been great, would recommend.
+I recently picked up a bullet-journal, and I've been using it to organize my to-dos, my schedule, my classes, and keep up with my New Year's Resolutions. Hopefully I'll stick it out for at least a year! So far it's been fun and productive hobby. Would recommend!
 
