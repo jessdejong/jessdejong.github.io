@@ -6,7 +6,7 @@ title: 'CS371p Spring 2021- Jesse DeJong'
 
 I'm Jesse, and I'm in my second year at UT Austin. This is me:
 
-![Jesse Profile Photo](/images/jesse-profile-photo-2.jpeg)
+<img src="/images/jesse-profile-photo-2.jpeg" alt="profile photo" width="50%"/>
 
 # Where did you grow up?
 
