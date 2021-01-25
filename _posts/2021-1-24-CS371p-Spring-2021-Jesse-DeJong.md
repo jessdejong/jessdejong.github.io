@@ -1,7 +1,8 @@
 ---
 layout: post
-title: CS371p Spring 2021: Jesse DeJong
+title: 'CS371p Spring 2021: Jesse DeJong'
 ---
+
 
 I'm Jesse, and I'm in my second year at UT Austin. This is me:
 
@@ -32,4 +33,3 @@ A movie called "Midnight in Paris", starring Owen Wilson. Main takeaway from the
 # What's your tip-of-the-week?
 
 I recently picked up a bullet-journal, and I've been using it to organize my to-dos, my schedule, my classes, and keep up with my New Year's Resolutions. Hopefully I'll stick it out for at least a year! So far it's been fun and productive hobby. Would recommend!
-
