@@ -3,6 +3,8 @@ layout: post
 title: 'CS371p Spring 2021: Week of 25 Jan - 31 Jan'
 ---
 
+Second blog post!
+
 <img src="/images/jesse-profile-photo-2.jpeg" alt="profile photo" width="50%"/>
 
 # What did you do this past week?
