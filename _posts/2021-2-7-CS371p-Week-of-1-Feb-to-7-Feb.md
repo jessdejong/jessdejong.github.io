@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CS371p Spring 2021: Week of 25 Jan - 31 Jan'
+title: 'CS371p Spring 2021: Week of 1 Feb - 7 Feb'
 ---
 
 Third blog post for CS371p - Object Oriented Programming.
